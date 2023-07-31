@@ -1,8 +1,7 @@
-# React + Vite
+# Course site landing page using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<img width="960" alt="Screenshot 2023-07-31 123734" src="https://github.com/devishraq/course-site-react/assets/101325013/9dc98cd7-fab2-465a-8e5a-96d5371ef8e8">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
