@@ -20,7 +20,7 @@ export default () => (
    </div>
   </div>
   <div className='w-1/3 flex justify-end'>
-   <img src='src\assets\HeroPhoto.avif' className='h-full ' alt='hero image' />
+   <img src='../assets/HeroPhoto.avif' className='h-full ' alt='hero image' />
   </div>
  </div>
 );
